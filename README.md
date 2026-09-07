@@ -985,19 +985,14 @@ Learn a concrete Codex workflow from maintained guides, examples, courses, and h
 
 ## Related Resources
 
-### GitHub repositories
-
 - [awesome-coding-agent](https://github.com/jqueryscript/awesome-coding-agent) - A curated ranking of popular AI coding agents, sorted by GitHub stars.
-- [awesome-agent-skills](https://github.com/jqueryscript/awesome-agent-skills) - A curated list of high-star Agent Skills for coding agents and AI workflows.
 - [codex-commands-cheat-sheet](https://github.com/jqueryscript/codex-commands-cheat-sheet) - OpenAI Codex CLI commands, flags, configuration, sandboxing, MCP, and workflows.
-- [codex-timeline](https://github.com/jqueryscript/codex-timeline) - A source-backed timeline of OpenAI Codex releases, products, and integrations.
-
-### ScriptByAI articles
-
 - [Codex Commands Cheat Sheet](https://www.scriptbyai.com/codex-commands-cheat-sheet/)
+- [codex-timeline](https://github.com/jqueryscript/codex-timeline) - A source-backed timeline of OpenAI Codex releases, products, and integrations.
 - [Codex Timeline](https://www.scriptbyai.com/codex-timeline/)
-- [AGENTS.md Guide](https://www.scriptbyai.com/agents-md-guide/)
+- [awesome-agent-skills](https://github.com/jqueryscript/awesome-agent-skills) - A curated list of high-star Agent Skills for coding agents and AI workflows.
 - [Agent Skills Specification](https://www.scriptbyai.com/agent-skills-specification/)
+- [AGENTS.md Guide](https://www.scriptbyai.com/agents-md-guide/)
 - [MCP directory](https://www.scriptbyai.com/mcp/)
 - [Codex tag archive](https://www.scriptbyai.com/tag/codex/)
 
