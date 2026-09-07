@@ -2,9 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An Awesome List of tools, skills, plugins, clients, MCP integrations, automation projects, SDKs, session utilities, and practical guides for OpenAI Codex. Browse by task across coding, research, writing, design, and office work, then check each maintainer's documentation for setup and compatibility.
-
-> **Read the companion article:** [The Ultimate Codex Resource List](https://www.scriptbyai.com/codex-resource-list/)
+A curated list of tools, skills, plugins, clients, MCP integrations, automation projects, SDKs, session utilities, and practical guides for OpenAI Codex. Resources are grouped by use case and ordered by GitHub Stars within each category.
 
 **Resources:** 444  
 **Updated:** 2026-09-07
@@ -985,9 +983,16 @@ Learn a concrete Codex workflow from maintained guides, examples, courses, and h
 
 ---
 
-## ScriptByAI reading links
+## Related Resources
 
-These references explain adjacent Codex topics while this directory stays focused on ecosystem discovery.
+### GitHub repositories
+
+- [awesome-coding-agent](https://github.com/jqueryscript/awesome-coding-agent) - A curated ranking of popular AI coding agents, sorted by GitHub stars.
+- [awesome-agent-skills](https://github.com/jqueryscript/awesome-agent-skills) - A curated list of high-star Agent Skills for coding agents and AI workflows.
+- [codex-commands-cheat-sheet](https://github.com/jqueryscript/codex-commands-cheat-sheet) - OpenAI Codex CLI commands, flags, configuration, sandboxing, MCP, and workflows.
+- [codex-timeline](https://github.com/jqueryscript/codex-timeline) - A source-backed timeline of OpenAI Codex releases, products, and integrations.
+
+### ScriptByAI articles
 
 - [Codex Commands Cheat Sheet](https://www.scriptbyai.com/codex-commands-cheat-sheet/)
 - [Codex Timeline](https://www.scriptbyai.com/codex-timeline/)
@@ -999,14 +1004,3 @@ These references explain adjacent Codex topics while this directory stays focuse
 ## Contributing
 
 Propose a resource with its canonical URL, suggested category, explicit maintainer-owned Codex evidence, and a usage or learning reference. Corrections are reviewed in the ledger and published by regenerating both outputs.
-
-## Changelog
-
-- **2026-09-05**. Created the initial directory with 54 accepted resources across the nine approved categories.
-- **2026-09-05**. Restored repository names, live GitHub Stars, and complete native repository descriptions; applied the 100-Star public floor and high-to-low Stars ordering without changing Codex evidence rules.
-- **2026-09-06**. Added explicit Codex-supporting projects discovered in the local Claude Code Resource List reference; refreshed current Stars and native GitHub descriptions, retained review/unavailable candidates, and kept public ordering by descending Stars.
-- **2026-09-06**. Reviewed high-star Awesome Codex source lists and absorbed qualifying child projects with current Stars, native descriptions, maintainer Codex evidence, and source-list provenance.
-- **2026-09-06**. Removed public entries with Chinese native repository descriptions and held generic GitHub contribution prompts for metadata review.
-- **2026-09-06**. Added maintained high-star Awesome Codex source lists as directory resources after verifying current Stars, native descriptions, direct Codex purpose, and inspectable list artifacts.
-- **2026-09-07**. Rewrote the reader-facing website and README introductions and formatted the companion repository as an Awesome List.
-- **2026-09-07**. Shortened public entries to one plain-text sentence from each fetched description and removed emoji, promotional tails, requirements reminders, surface labels, and instruction notes.
