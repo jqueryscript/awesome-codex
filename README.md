@@ -4,8 +4,8 @@
 
 A curated list of tools, skills, plugins, clients, MCP integrations, automation projects, SDKs, session utilities, and practical guides for OpenAI Codex. Resources are grouped by use case and ordered by GitHub Stars within each category.
 
-**Resources:** 444  
-**Updated:** 2026-09-07
+**Resources:** 450  
+**Updated:** 2026-09-10
 
 > GitHub Star counts reflect the latest metadata refresh and may change over time.
 
@@ -88,6 +88,8 @@ Install skills and plugins, or browse collections that group reusable Codex capa
 - [**awesome-codex-skills**](https://github.com/composio-community/awesome-codex-skills) - (16.3k ⭐) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 <!-- resource-id: codex-deferred-b3ea5ac3d08d -->
 - [**AI-Research-SKILLs**](https://github.com/Orchestra-Research/AI-Research-SKILLs) - (12.3k ⭐) - Comprehensive open-source library of AI research and engineering skills for any AI model.
+<!-- resource-id: codex-petergyang-no-ai-slop -->
+- [**no-ai-slop**](https://github.com/petergyang/no-ai-slop) - (8k ⭐) - Removes 20+ patterns of AI slop from any piece of writing.
 <!-- resource-id: codex-deferred-0d9a9720d2f1 -->
 - [**video-shotcraft**](https://github.com/Vincentwei1021/video-shotcraft) - (7.5k ⭐) - AI video skill for Claude Code & Codex, cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template.
 <!-- resource-id: codex-awesome-voltagent-awesome-codex-subagents -->
@@ -130,6 +132,8 @@ Install skills and plugins, or browse collections that group reusable Codex capa
 - [**codex-first-customer-finder-skill**](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) - (1k ⭐) - A Codex skill that finds evidence-backed potential first customers from recent public signals.
 <!-- resource-id: codex-awesome-plugins-collection -->
 - [**awesome-codex-plugins**](https://github.com/hashgraph-online/awesome-codex-plugins) - (935 ⭐) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources.
+<!-- resource-id: codex-kajisho5-ffmpeg-skill -->
+- [**ffmpeg-skill**](https://github.com/kajisho5/ffmpeg-skill) - (596 ⭐) - Give your coding agent a video editor.
 <!-- resource-id: codex-kulaxyz-token-diet -->
 - [**token-diet**](https://github.com/Kulaxyz/token-diet) - (472 ⭐) - Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline).
 <!-- resource-id: codex-awesome-akin-ozer-cc-devops-skills -->
@@ -142,6 +146,8 @@ Install skills and plugins, or browse collections that group reusable Codex capa
 - [**codex-skill**](https://github.com/cathrynlavery/codex-skill) - (208 ⭐) - Give Claude Code a second opinion using OpenAI Codex - automatic plan review via hooks.
 <!-- resource-id: codex-awesome-avivsinai-bitbucket-cli -->
 - [**bitbucket-cli**](https://github.com/avivsinai/bitbucket-cli) - (200 ⭐) - Bitbucket CLI with gh-like ergonomics.
+<!-- resource-id: codex-lersent001-holo-card -->
+- [**holo-card**](https://github.com/LerSent001/holo-card) - (200 ⭐) - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow.
 <!-- resource-id: codex-awesome-source-naodeng-awesome-qa-skills -->
 - [**awesome-qa-skills**](https://github.com/naodeng/awesome-qa-skills) - (194 ⭐) - Awesome QA Skills, a bilingual (zh/en) AI testing Agent Skills library for Codex, Cursor, Claude Code, Kiro, OpenCode, and Trae.
 <!-- resource-id: codex-aaron-he-zhu-seo-geo-claude-skills -->
@@ -348,6 +354,8 @@ Open Codex from an editor, desktop client, terminal interface, or remote control
 - [**BossConsole**](https://github.com/risa-labs-inc/BossConsole) - (439 ⭐) - Open-source, multi-platform harness for AI agents.
 <!-- resource-id: codex-deferred-a0a85bbe0fe9 -->
 - [**apm-studio**](https://github.com/apm-studio/apm-studio) - (435 ⭐) - Local editor for importing, managing, running, and injecting APM-backed assistant packages.
+<!-- resource-id: codex-yoanwai-agent-manager -->
+- [**agent-manager**](https://github.com/YoanWai/agent-manager) - (421 ⭐) - The fastest workflow for every AI coding agent.
 <!-- resource-id: codex-deferred-760a60a7376d -->
 - [**agnix**](https://github.com/avifenesh/agnix) - (404 ⭐) - The missing linter and lsp for AI coding assistants.
 <!-- resource-id: codex-deferred-d7f9a3fb5f8f -->
@@ -476,6 +484,8 @@ Set up repeatable Codex jobs with actions, review loops, schedulers, and agent c
 - [**claude-review-loop**](https://github.com/hamelsmu/claude-review-loop) - (724 ⭐) - Claude Code plugin: automated code review loop with Codex.
 <!-- resource-id: codex-deferred-286baede0a41 -->
 - [**agents-md**](https://github.com/FerroxLabs/agents-md) - (679 ⭐) - Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern.
+<!-- resource-id: codex-codejunkie99-fable-orchestrator -->
+- [**fable-orchestrator**](https://github.com/codejunkie99/fable-orchestrator) - (594 ⭐) - Fable 5.1 orchestrates.
 <!-- resource-id: codex-deferred-6461ac9d3eec -->
 - [**metaswarm**](https://github.com/dsifry/metaswarm) - (413 ⭐) - A self-improving multi-agent orchestration framework for Claude Code, Gemini CLI, and Codex CLI, 18 agents, 13 skills, 15 commands, TDD enforcement, quality gates, spec-driven development.
 <!-- resource-id: codex-awesome-u-ichi-reviewable-html-workbench -->
@@ -858,6 +868,8 @@ Build applications and runtimes around Codex with SDKs, adapters, gateways, and 
 - [**vscode-unify-chat-provider**](https://github.com/smallmain/vscode-unify-chat-provider) - (708 ⭐) - Integrate multiple LLM API providers into VS Code's GitHub Copilot Chat using the Language Model API.
 <!-- resource-id: codex-mikehasa-agentacct -->
 - [**agentacct**](https://github.com/mikehasa/agentacct) - (699 ⭐) - See what your coding agents did and what it cost.
+<!-- resource-id: codex-hkqr-my-free-code -->
+- [**my-free-code**](https://github.com/hkqr/my-free-code) - (633 ⭐) - Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support.
 <!-- resource-id: codex-awesome-hashgraph-online-hol-guard -->
 - [**hol-guard**](https://github.com/hashgraph-online/hol-guard) - (558 ⭐) - Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.
 <!-- resource-id: codex-awesome-mco-org-mco -->
