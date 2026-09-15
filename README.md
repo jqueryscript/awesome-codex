@@ -4,8 +4,8 @@
 
 A curated list of tools, skills, plugins, clients, MCP integrations, automation projects, SDKs, session utilities, and practical guides for OpenAI Codex. Resources are grouped by use case and ordered by GitHub Stars within each category.
 
-**Resources:** 450  
-**Updated:** 2026-09-10
+**Resources:** 460  
+**Updated:** 2026-09-16
 
 > GitHub Star counts reflect the latest metadata refresh and may change over time.
 
@@ -130,6 +130,8 @@ Install skills and plugins, or browse collections that group reusable Codex capa
 - [**ppt-image-first**](https://github.com/NyxTides/ppt-image-first) - (1.2k ⭐) - PPT image-first skill for Codex/Claude Code/Opencode CLI.
 <!-- resource-id: codex-deferred-18d6e8addeac -->
 - [**codex-first-customer-finder-skill**](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) - (1k ⭐) - A Codex skill that finds evidence-backed potential first customers from recent public signals.
+<!-- resource-id: codex-achimala-dream-loop -->
+- [**dream-loop**](https://github.com/achimala/dream-loop) - (961 ⭐) - Agent skill for impressive 3D visuals using Blender + image gen + subagent critic.
 <!-- resource-id: codex-awesome-plugins-collection -->
 - [**awesome-codex-plugins**](https://github.com/hashgraph-online/awesome-codex-plugins) - (935 ⭐) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources.
 <!-- resource-id: codex-kajisho5-ffmpeg-skill -->
@@ -178,8 +180,12 @@ Shape project behavior with AGENTS.md files, configuration templates, and contex
 - [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) - (42.8k ⭐) - Turn any AI agent into an AI Scientist.
 <!-- resource-id: codex-deferred-1f12bba6865e -->
 - [**codebase-memory-mcp**](https://github.com/DeusData/codebase-memory-mcp) - (42.3k ⭐) - High-performance code intelligence MCP server.
+<!-- resource-id: codex-deferred-55771da7c444 -->
+- [**context-mode**](https://github.com/mksglu/context-mode) - (23k ⭐) - Context window optimization for AI coding agents.
 <!-- resource-id: codex-trailhq-graft -->
 - [**Graft**](https://github.com/trailhq/Graft) - (5.6k ⭐) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
+<!-- resource-id: codex-deferred-fd3e1d6e411d -->
+- [**obsidian-mind**](https://github.com/breferrari/obsidian-mind) - (4.6k ⭐) - A self-organizing Obsidian vault that gives AI coding agents persistent memory.
 <!-- resource-id: codex-awesome-bfly123-claude-code-bridge -->
 - [**claude_code_bridge**](https://github.com/bfly123/claude_code_bridge) - (3.5k ⭐) - Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents.
 <!-- resource-id: codex-deferred-3222c9e2608d -->
@@ -260,8 +266,12 @@ Open Codex from an editor, desktop client, terminal interface, or remote control
 - [**open-codesign**](https://github.com/OpenCoworkAI/open-codesign) - (7.9k ⭐) - Open-source Claude Design alternative.
 <!-- resource-id: codex-liamgvchi-gc-minimal-zine-poster -->
 - [**gc-minimal-zine-poster**](https://github.com/LiamGvchi/gc-minimal-zine-poster) - (6.9k ⭐) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images.
+<!-- resource-id: codex-deferred-53d6361c5d4f -->
+- [**jetbrains-cc-gui**](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - (6.2k ⭐) - Jetbrains Claude Code and Codex GUI Plugin.
 <!-- resource-id: codex-heilcheng-awesome-agent-skills -->
 - [**awesome-agent-skills**](https://github.com/heilcheng/awesome-agent-skills) - (6.2k ⭐) - Tutorials, Guides and Agent Skills Directories.
+<!-- resource-id: codex-rullerzhou-afk-clawd-on-desk -->
+- [**clawd-on-desk**](https://github.com/rullerzhou-afk/clawd-on-desk) - (6.1k ⭐) - A pixel desktop pet that watches Claude Code, Codex, Cursor and other AI coding agents - so you do not have to.
 <!-- resource-id: codex-deferred-9d7bf81116d9 -->
 - [**skills-manager**](https://github.com/xingkongliang/skills-manager) - (4.5k ⭐) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools, Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 <!-- resource-id: codex-awesome-ilysenko-codex-desktop-linux -->
@@ -426,6 +436,8 @@ Set up repeatable Codex jobs with actions, review loops, schedulers, and agent c
 - [**agents**](https://github.com/wshobson/agents) - (39.4k ⭐) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity.
 <!-- resource-id: codex-composio-awesome-skills -->
 - [**awesome-codex-skills**](https://github.com/ComposioHQ/awesome-codex-skills) - (16.3k ⭐) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+<!-- resource-id: codex-untrivial-ai-agent-orchestrator -->
+- [**agent-orchestrator**](https://github.com/Untrivial-ai/agent-orchestrator) - (11.6k ⭐) - Run and supervise teams of coding agents from planning to merge.
 <!-- resource-id: codex-deferred-f286ab0362e7 -->
 - [**loop-engineering**](https://github.com/cobusgreyling/loop-engineering) - (11k ⭐) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents.
 <!-- resource-id: codex-awesome-trailofbits-skills -->
@@ -576,6 +588,8 @@ Inspect sessions, transcripts, token usage, logs, diagnostics, and recovery data
 - [**Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - (15.7k ⭐) - ARIS (Auto-Research-In-Sleep), Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation.
 <!-- resource-id: codex-deferred-cf4464551247 -->
 - [**codeburn**](https://github.com/getagentseal/codeburn) - (10.9k ⭐) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task.
+<!-- resource-id: codex-kenn-io-agentsview -->
+- [**agentsview**](https://github.com/kenn-io/agentsview) - (5.9k ⭐) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 <!-- resource-id: codex-ppt-skill -->
 - [**codex-ppt-skill**](https://github.com/ningzimu/codex-ppt-skill) - (5.6k ⭐) - GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents.
 <!-- resource-id: codex-galaxy-dawn-claude-scholar -->
@@ -632,6 +646,8 @@ Inspect sessions, transcripts, token usage, logs, diagnostics, and recovery data
 - [**Aegis**](https://github.com/GanyuanRan/Aegis) - (1.2k ⭐) - Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.
 <!-- resource-id: codex-deferred-c3ce5cb93c50 -->
 - [**tokentab**](https://github.com/damejan80/tokentab) - (1.2k ⭐) - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
+<!-- resource-id: codex-crwdla-tokentab -->
+- [**tokentab**](https://github.com/crwdla/tokentab) - (1.1k ⭐) - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
 <!-- resource-id: codex-awesome-sergebulaev-linkedin-skills -->
 - [**linkedin-skills**](https://github.com/sergebulaev/linkedin-skills) - (1.1k ⭐) - Claude skills for LinkedIn.
 <!-- resource-id: codex-deferred-3de7037a4993 -->
@@ -648,6 +664,8 @@ Inspect sessions, transcripts, token usage, logs, diagnostics, and recovery data
 - [**room**](https://github.com/quoroom-ai/room) - (837 ⭐) - Open-source earning-focused swarm intelligence engine.
 <!-- resource-id: codex-deferred-cf707a6e1f18 -->
 - [**claude-replay**](https://github.com/es617/claude-replay) - (826 ⭐) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode, Kimi Code, Hermes) into self-contained, embeddable HTML replays.
+<!-- resource-id: codex-kruzovic7-ai-data-extractor -->
+- [**ai-data-extractor**](https://github.com/kruzovic7/ai-data-extractor) - (814 ⭐) - Free open-source extractor for AI coding assistant chat histories.
 <!-- resource-id: codex-deferred-1809a7a5421b -->
 - [**projectmem**](https://github.com/riponcm/projectmem) - (797 ⭐) - Open-source coding agent memory.
 <!-- resource-id: codex-awesome-garethmanning-education-agent-skills -->
@@ -760,6 +778,8 @@ Build applications and runtimes around Codex with SDKs, adapters, gateways, and 
 - [**free-claude-code**](https://github.com/Alishahryar1/free-claude-code) - (53.2k ⭐) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly).
 <!-- resource-id: codex-router-for-me-cliproxyapi -->
 - [**CLIProxyAPI**](https://github.com/router-for-me/CLIProxyAPI) - (50.5k ⭐) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API.
+<!-- resource-id: codex-herdrdev-herdr -->
+- [**herdr**](https://github.com/herdrdev/herdr) - (38.4k ⭐) - the runtime your coding agents live on.
 <!-- resource-id: codex-oh-my-codex -->
 - [**oh-my-codex**](https://github.com/Yeachan-Heo/oh-my-codex) - (33k ⭐) - OmX - Oh My codeX: Your codex is not alone.
 <!-- resource-id: codex-deferred-747c022ab640 -->
