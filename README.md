@@ -765,6 +765,9 @@ Inspect sessions, transcripts, token usage, logs, diagnostics, and recovery data
 <!-- resource-id: codex-deferred-af89bf557553 -->
 - [**claude-codex-battery**](https://github.com/dennykim123/claude-codex-battery) - (103 ⭐) - macOS menu bar widget showing Claude Code & Codex usage limits as battery icons.
 
+<!-- resource-id: codex-nextreset -->
+- [**NextReset**](https://nextreset.ai/) - Independent Codex reset-history tracker with source-linked official incident records and a browser-local personal reset timer.
+
 ---
 
 <a id="category-c08"></a>
