@@ -518,6 +518,8 @@ Set up repeatable Codex jobs with actions, review loops, schedulers, and agent c
 - [**metaswarm**](https://github.com/dsifry/metaswarm) - (413 ⭐) - A self-improving multi-agent orchestration framework for Claude Code, Gemini CLI, and Codex CLI, 18 agents, 13 skills, 15 commands, TDD enforcement, quality gates, spec-driven development.
 <!-- resource-id: codex-awesome-u-ichi-reviewable-html-workbench -->
 - [**reviewable-html-workbench**](https://github.com/u-ichi/reviewable-html-workbench) - (295 ⭐) - Claude Code / Codex CLI plugin for generating reviewable HTML documents with preview, inline review comments, and agent feedback ingestion.
+<!-- resource-id: codex-ethanplusai-astra-flash-orchestrator -->
+- [**astra-flash-orchestrator**](https://github.com/ethanplusai/astra-flash-orchestrator) - (236 ⭐) - Codex skill that keeps Astra on planning and review while DeepSeek V4.1 Flash handles implementation.
 <!-- resource-id: codex-deferred-15ce30a23e17 -->
 - [**oc-chatgpt-multi-auth**](https://github.com/ndycode/oc-chatgpt-multi-auth) - (185 ⭐) - OpenCode plugin for ChatGPT Plus/Pro OAuth with Codex/GPT-5 routing, multi-account rotation, account switching, health checks, diagnostics, and recovery tools.
 <!-- resource-id: codex-jobflow -->
