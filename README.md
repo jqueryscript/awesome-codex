@@ -848,6 +848,9 @@ Inspect sessions, transcripts, token usage, logs, diagnostics, and recovery data
 <!-- resource-id: codex-deferred-b9dab4609ce6 -->
 - [**codex-pet-usage-companion**](https://github.com/Nemo0000/codex-pet-usage-companion) - (101 ⭐) - A lightweight Windows companion for switching Codex pets and viewing ChatGPT-backed usage limits.
 
+<!-- resource-id: codex-nextreset -->
+- [**NextReset**](https://nextreset.ai/) - Independent Codex reset-history tracker with source-linked official incident records and a browser-local personal reset timer.
+
 ---
 
 <a id="category-c08"></a>
