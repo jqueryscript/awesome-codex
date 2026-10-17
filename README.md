@@ -847,6 +847,8 @@ Inspect sessions, transcripts, token usage, logs, diagnostics, and recovery data
 - [**Codex-Level**](https://github.com/Cobb04/Codex-Level) - (102 ⭐) - A macOS menu bar app that turns lifetime Codex usage into QQ-style levels and progress.
 <!-- resource-id: codex-deferred-b9dab4609ce6 -->
 - [**codex-pet-usage-companion**](https://github.com/Nemo0000/codex-pet-usage-companion) - (101 ⭐) - A lightweight Windows companion for switching Codex pets and viewing ChatGPT-backed usage limits.
+<!-- resource-id: codex-cpys-codex-quota-overlay -->
+- [**codex-quota-overlay**](https://github.com/cpys/codex-quota-overlay) - (2 ⭐) - Privacy-focused desktop overlay for Codex usage limits, reset countdowns, quota history, and burn-rate context; maintained independently and not affiliated with OpenAI.
 
 ---
 
