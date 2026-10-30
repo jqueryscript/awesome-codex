@@ -4,9 +4,9 @@
 
 A curated list of tools, skills, plugins, clients, MCP integrations, automation projects, SDKs, session utilities, and practical guides for OpenAI Codex. Resources are grouped by use case and ordered by GitHub Stars within each category.
 
-**Resources:** 535
+**Resources:** 536
 
-**Updated:** 2026-10-29
+**Updated:** 2026-10-30
 
 > GitHub Star counts reflect the latest metadata refresh and may change over time.
 
@@ -513,6 +513,8 @@ Open Codex from an editor, desktop client, terminal interface, or remote control
 - [**agentnotch**](https://github.com/AppGram/agentnotch) - (218 ⭐) - AgentNotch is a sleek macOS menu bar app that lives in your Mac's notch, providing real-time visibility into your AI coding assistants.
 <!-- resource-id: codex-awesome-xquik-dev-x-twitter-scraper -->
 - [**x-twitter-scraper**](https://github.com/Xquik-dev/x-twitter-scraper) - (213 ⭐) - X (Twitter) scraper API & X API alternative with REST, MCP, SDKs & webhooks.
+<!-- resource-id: codex-tribgames-mixdog -->
+- [**mixdog**](https://github.com/tribgames/mixdog) - (211 ⭐) - Open-source (Apache-2.0) desktop coding agent where a lead model plans and cheaper models handle search, edits and review; signs in with a ChatGPT (Codex) account.
 <!-- resource-id: codex-deferred-f915c2f8b4ee -->
 - [**agentic-os**](https://github.com/KbWen/agentic-os) - (210 ⭐) - Governance framework for AI coding agents.
 <!-- resource-id: codex-awesome-techygarg-lattice -->
