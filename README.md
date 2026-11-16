@@ -1168,6 +1168,9 @@ Build applications and runtimes around Codex with SDKs, adapters, gateways, and 
 <!-- resource-id: codex-awesome-hogancv-coordinate-agents -->
 - [**coordinate-agents**](https://github.com/hogancv/coordinate-agents) - (99 ⭐) - Coordinate multiple AI coding agents through a local-first, recoverable Agent Bus.
 
+<!-- resource-id: codex-teapot-router-teapotrouter -->
+- [**TeapotRouter**](https://teapotrouter.com) - Hosted dual-protocol gateway: one API key serves an Anthropic Messages endpoint for Claude Code and an OpenAI-compatible endpoint for Codex CLI, with a per-request cost/token/latency ledger, machine-readable pricing (`/api/pricing`), a $3 minimum top-up, credit that never expires, and a no-signup Model Lab to try models before paying. Setup templates: [teapot-router/teapot-router-config](https://github.com/teapot-router/teapot-router-config).
+
 ---
 
 <a id="category-c09"></a>
