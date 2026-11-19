@@ -4,9 +4,9 @@
 
 A curated list of tools, skills, plugins, clients, MCP integrations, automation projects, SDKs, session utilities, and practical guides for OpenAI Codex. Resources are grouped by use case and ordered by GitHub Stars within each category.
 
-**Resources:** 560
+**Resources:** 575
 
-**Updated:** 2026-11-10
+**Updated:** 2026-11-19
 
 > GitHub Star counts reflect the latest metadata refresh and may change over time.
 
@@ -82,7 +82,7 @@ Install skills and plugins, or browse collections that group reusable Codex capa
 <!-- resource-id: codex-deferred-35dedba68491 -->
 - [**agent-skills**](https://github.com/addyosmani/agent-skills) - (106.9k ⭐) - Production-grade engineering skills for AI coding agents.
 <!-- resource-id: codex-deferred-2df00a1ac50b -->
-- [**obsidian-skills**](https://github.com/kepano/obsidian-skills) - (49.6k ⭐) - Agent skills for Obsidian.
+- [**obsidian-skills**](https://github.com/obsidianmd/obsidian-skills) - (53.2k ⭐) - Use the Obsidian CLI and edit Obsidian Markdown, Bases, and JSON Canvas files with Codex and other agents.
 <!-- resource-id: codex-deferred-7ed04bf244b2 -->
 - [**hallmark**](https://github.com/nutlope/hallmark) - (30.1k ⭐) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 <!-- resource-id: codex-deferred-c07e6c50b9c8 -->
@@ -129,6 +129,8 @@ Install skills and plugins, or browse collections that group reusable Codex capa
 - [**answer-me-with-html**](https://github.com/QingYunA/answer-me-with-html) - (3.4k ⭐) - Agent skill that produces single-page HTML explanations with diagrams and readable layouts from a short Markdown draft.
 <!-- resource-id: codex-kaankiziltug-logo-design-skill -->
 - [**logo-design-skill**](https://github.com/kaankiziltug/logo-design-skill) - (3.4k ⭐) - A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
+<!-- resource-id: codex-signerlabs-shipswift -->
+- [**ShipSwift**](https://github.com/signerlabs/ShipSwift) - (3.3k ⭐) - Build iOS interfaces with Agent Skills and SwiftUI components for animations, charts, and Metal shaders.
 <!-- resource-id: codex-bergside-awesome-design-skills -->
 - [**awesome-design-skills**](https://github.com/bergside/awesome-design-skills) - (3.2k ⭐) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools.
 <!-- resource-id: codex-nanako0129-sepia -->
@@ -145,14 +147,20 @@ Install skills and plugins, or browse collections that group reusable Codex capa
 - [**skills**](https://github.com/typesafe-ai/skills) - (2.7k ⭐) - Agent skills for building with TypeSafe's System One API.
 <!-- resource-id: codex-drcathicks-learning-opportunities -->
 - [**learning-opportunities**](https://github.com/DrCatHicks/learning-opportunities) - (2.5k ⭐) - A Claude or Codex skill for deliberate skill development during AI-assisted coding.
+<!-- resource-id: codex-el4cteo-blender-skills -->
+- [**blender-skills**](https://github.com/EL4CTEO/blender-skills) - (2.4k ⭐) - Use Blender skills for modeling, UV unwrapping, texture baking, rigging, animation, and asset export.
 <!-- resource-id: codex-appeeky-aso-skills -->
 - [**aso-skills**](https://github.com/appeeky/aso-skills) - (2.2k ⭐) - Agent skills for App Store Optimization, including keyword research, metadata optimization, competitor analysis, and app growth.
 <!-- resource-id: codex-tourmind-com-tourmind-booking-skills -->
 - [**Tourmind-Booking-Skills**](https://github.com/tourmind-com/Tourmind-Booking-Skills) - (2k ⭐) - Agent skills for comparing hotel rates and airfares, booking trips, and managing reservations through the TourMind API.
 <!-- resource-id: codex-bangtutorial-bang-motion -->
 - [**bang-motion**](https://github.com/bangtutorial/bang-motion) - (2k ⭐) - Create animated openers, promos, bumpers, and kinetic typography in a single HTML file.
+<!-- resource-id: codex-jakeschincariol-trader-skill -->
+- [**trader-skill**](https://github.com/Jakeschincariol/trader-skill) - (2k ⭐) - Claude skills for tracking investor disclosures, screening stocks, sizing positions, and reviewing proposed trade tickets.
 <!-- resource-id: codex-kajisho5-ffmpeg-skill -->
 - [**ffmpeg-skill**](https://github.com/kajisho5/ffmpeg-skill) - (2k ⭐) - Give your coding agent a video editor.
+<!-- resource-id: codex-iart-ai-motion-skills -->
+- [**motion-skills**](https://github.com/iart-ai/motion-skills) - (1.9k ⭐) - Create motion graphics and videos with installable skill packs for kinetic typography, animated data, explainers, and short-form clips.
 <!-- resource-id: codex-showheyohtaki-motion-prompt -->
 - [**motion-prompt**](https://github.com/showheyohtaki/motion-prompt) - (1.8k ⭐) - Browse a gallery of motion references and recreate selected effects in Canvas, CSS, Remotion, or After Effects.
 <!-- resource-id: codex-denissergeevitch-ex-ussr-kinship-research -->
@@ -209,18 +217,24 @@ Install skills and plugins, or browse collections that group reusable Codex capa
 - [**golive-skill**](https://github.com/mikehasa/golive-skill) - (1.3k ⭐) - Take your agent-built product live: hosting, database, domain, email, payments, on your own accounts.
 <!-- resource-id: codex-nyxtides-ppt-image-first -->
 - [**ppt-image-first**](https://github.com/NyxTides/ppt-image-first) - (1.2k ⭐) - PPT image-first skill for Codex/Claude Code/Opencode CLI.
+<!-- resource-id: codex-sybil-solutions-inference-optimisation-skill -->
+- [**inference-optimisation-skill**](https://github.com/sybil-solutions/inference-optimisation-skill) - (1.2k ⭐) - Benchmark local LLM inference and tune prefill, decoding, key-value cache behavior, and time to first token.
 <!-- resource-id: codex-deferred-18d6e8addeac -->
 - [**codex-first-customer-finder-skill**](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) - (1.1k ⭐) - A Codex skill that finds evidence-backed potential first customers from recent public signals.
 <!-- resource-id: codex-filtalgo-filtmall-shopping-skill -->
 - [**Filtmall-Shopping-Skill**](https://github.com/filtalgo/Filtmall-Shopping-Skill) - (961 ⭐) - Agent skill for comparing product prices and handling checkout, orders, delivery, and after-sales tasks.
 <!-- resource-id: codex-juliobsz-skills -->
 - [**skills**](https://github.com/juliobsz/skills) - (871 ⭐) - A website design skill for building sites from a short brief, with layout, typography, visual direction, and implementation guidance.
+<!-- resource-id: codex-moh4696-cinematic-skill -->
+- [**cinematic-skill**](https://github.com/Moh4696/cinematic-skill) - (795 ⭐) - Create narrated films in code with camera moves across photos, maps, and title cards timed to the voiceover.
 <!-- resource-id: codex-franzenzenhofer-big-arrow-on-the-screen -->
 - [**big-arrow-on-the-screen**](https://github.com/franzenzenhofer/big-arrow-on-the-screen) - (748 ⭐) - Codex and Claude Code skill with a macOS CLI for temporary arrows, boxes, and text overlays that preserve keyboard focus and allow clicks through.
 <!-- resource-id: codex-ythx-101-live-panel-skill -->
 - [**live-panel-skill**](https://github.com/ythx-101/live-panel-skill) - (736 ⭐) - Agent skill for animated architecture diagrams and infographics from JSON configurations, with live HTML and MP4 output.
 <!-- resource-id: codex-dozentwelve-papermorph -->
 - [**Papermorph**](https://github.com/DozenTwelve/Papermorph) - (730 ⭐) - Claude Code skill for creating animated, narrated, interactive web books from PDFs. Currently requires Opus 5.5.
+<!-- resource-id: codex-boringmarketer-boring-marketing-skills -->
+- [**boring-marketing-skills**](https://github.com/boringmarketer/boring-marketing-skills) - (691 ⭐) - Marketing skills for customer research, positioning, landing pages, SEO, email campaigns, and local business promotion.
 <!-- resource-id: codex-deferred-45305dca266b -->
 - [**awesome-ai-plugins**](https://github.com/hashgraph-online/awesome-ai-plugins) - (686 ⭐) - A curated list of awesome plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode and More.
 <!-- resource-id: codex-barty-bart-motion-graphics -->
@@ -229,6 +243,10 @@ Install skills and plugins, or browse collections that group reusable Codex capa
 - [**kubai-icons**](https://github.com/kubai087/kubai-icons) - (621 ⭐) - Create animated icons in a consistent style or reuse existing icons in React, Vue, and SVG projects.
 <!-- resource-id: codex-songjianyang-xss-audit -->
 - [**xss-audit**](https://github.com/songjianyang/xss-audit) - (530 ⭐) - Static XSS audit skill for React, TypeScript, and JavaScript with checks for injection paths, sanitizer bypasses, URL validation, and Trusted Types.
+<!-- resource-id: codex-dotslashsimran-simcraft -->
+- [**simcraft**](https://github.com/dotslashsimran/simcraft) - (523 ⭐) - A Claude Code skill collection for scripted screencasts, codebase mapping, debugging flaky tests, interface design, and project planning.
+<!-- resource-id: codex-moessif-code-video-showcase -->
+- [**code-video-showcase**](https://github.com/Moessif/code-video-showcase) - (513 ⭐) - Render product showcase videos from HTML, Canvas, SVG, or Three.js and synchronize scene changes to a soundtrack with FFmpeg.
 <!-- resource-id: codex-illyism-seo-skills -->
 - [**seo-skills**](https://github.com/Illyism/seo-skills) - (487 ⭐) - SEO skills for Codex and other agents, including site checks, title optimization, article refreshes, backlink workflows, customer journeys, and video transcripts.
 <!-- resource-id: codex-gatewai-dev-framefields -->
@@ -239,6 +257,8 @@ Install skills and plugins, or browse collections that group reusable Codex capa
 - [**grim-prompter**](https://github.com/jmanico/grim-prompter) - (359 ⭐) - Build code-traced threat models with architecture-specific workflows, structured analysis methods, and proposed mitigations.
 <!-- resource-id: codex-lovisdotio-motion2code -->
 - [**motion2code**](https://github.com/lovisdotio/motion2code) - (328 ⭐) - Rebuild motion design videos as editable SVG and GSAP animations, with frame-by-frame comparison against the source.
+<!-- resource-id: codex-drost-ai-tinker-ai-skill -->
+- [**tinker-ai-skill**](https://github.com/drost-ai/tinker-ai-skill) - (327 ⭐) - Fine-tune a model on coding-agent transcripts with Tinker and export the resulting checkpoint for local serving.
 <!-- resource-id: codex-awesome-akin-ozer-cc-devops-skills -->
 - [**cc-devops-skills**](https://github.com/akin-ozer/cc-devops-skills) - (322 ⭐) - DevOps skills for Claude Code and Codex.
 <!-- resource-id: codex-alextnetto-res -->
@@ -287,6 +307,8 @@ Shape project behavior with AGENTS.md files, configuration templates, and contex
 - [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) - (50k ⭐) - Turn any AI agent into an AI Scientist.
 <!-- resource-id: codex-deferred-1f12bba6865e -->
 - [**codebase-memory-mcp**](https://github.com/DeusData/codebase-memory-mcp) - (46.6k ⭐) - High-performance code intelligence MCP server.
+<!-- resource-id: codex-tencentcloud-tencentdb-agent-memory -->
+- [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) - (31k ⭐) - Share conversation memory, reusable skills, knowledge bases, and code graphs across a team's agents through a common memory server.
 <!-- resource-id: codex-deferred-55771da7c444 -->
 - [**context-mode**](https://github.com/mksglu/context-mode) - (29.6k ⭐) - Context window optimization for AI coding agents.
 <!-- resource-id: codex-trailhq-graft -->
@@ -345,6 +367,8 @@ Shape project behavior with AGENTS.md files, configuration templates, and contex
 - [**graphicle**](https://github.com/Graphicle-AI/graphicle) - (432 ⭐) - Local code graph and project memory for coding agents, with searchable documentation, decisions, past sessions, and file-and-line references through MCP.
 <!-- resource-id: codex-nb-corp-gpt-with-taste -->
 - [**gpt-with-taste**](https://github.com/NB-Corp/gpt-with-taste) - (431 ⭐) - Model instructions and hooks for steering GPT behavior, judgment, and design decisions in Codex.
+<!-- resource-id: codex-vzroslieigry-maxagent -->
+- [**maxagent**](https://github.com/vzroslieigry/maxagent) - (264 ⭐) - Install rules and hooks that capture lessons from agent sessions and surface relevant experience in later tasks.
 <!-- resource-id: codex-settings-workbench -->
 - [**codex-settings**](https://github.com/feiskyer/codex-settings) - (247 ⭐) - Curated skills, profiles, and config templates that supercharge Codex CLI, multi-model, deep research, image gen & browser automation.
 <!-- resource-id: codex-awesome-tinqiao-oss-engramory -->
@@ -743,6 +767,8 @@ Connect Codex to browsers, data, and other services through MCP and documented b
 - [**miro-ai**](https://github.com/miroapp/miro-ai) - (161 ⭐) - Official Miro AI developer tools and integrations.
 <!-- resource-id: codex-awesome-jasoncolapietro-suede-creator-skills -->
 - [**suede-creator-skills**](https://github.com/JasonColapietro/suede-creator-skills) - (127 ⭐) - 74 open-source Agent Skills for Claude Code and Codex.
+<!-- resource-id: codex-puffinsoft-peek-cli -->
+- [**peek-cli**](https://github.com/puffinsoft/peek-cli) - (125 ⭐) - Capture screenshots of open Chrome tabs from Codex or other agents through a browser extension and command-line tool.
 
 ---
 
@@ -889,8 +915,12 @@ Inspect sessions, transcripts, token usage, logs, diagnostics, and recovery data
 - [**kindly-web-search-mcp-server**](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) - (399 ⭐) - Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.) and AI agents (Claude Desktop, OpenClaw, Hermes, etc).
 <!-- resource-id: codex-tang1693-kikumap -->
 - [**KIKUmap**](https://github.com/tang1693/KIKUmap) - (383 ⭐) - macOS menu-bar app and desktop widget for arranging Claude and local Codex chats as mind maps and tracking running, unread, and waiting sessions.
+<!-- resource-id: codex-atoll92-agent-standup -->
+- [**agent-standup**](https://github.com/Atoll92/agent-standup) - (381 ⭐) - Watch Codex and other agent sessions as an animated team call and see which agents are working, waiting, or need attention.
 <!-- resource-id: codex-charonyuu-whatsmyagentdoing -->
 - [**whatsmyagentdoing**](https://github.com/Charonyuu/whatsmyagentdoing) - (375 ⭐) - Watch local coding agents in a live browser office with session status, recent activity, token usage, and alerts when an agent needs attention.
+<!-- resource-id: codex-entelligence-ai-agentplay -->
+- [**agentplay**](https://github.com/Entelligence-AI/agentplay) - (371 ⭐) - Replay local coding-agent sessions on a map and timeline that show file edits, commands, failed attempts, and handoffs.
 <!-- resource-id: codex-deferred-12795b2c73b8 -->
 - [**codex-island**](https://github.com/ericjypark/codex-island) - (355 ⭐) - CodexIsland - AI usage limits in your MacBook notch.
 <!-- resource-id: codex-deferred-fd9a5bcb5ac7 -->
@@ -1235,6 +1265,7 @@ Propose a resource with its canonical URL, suggested category, explicit maintain
 
 ## Changelog
 
+- 2026-11-19. Added 15 resources for video production, marketing, Blender, SwiftUI, investing, model training and inference, agent memory, browser screenshots, and session monitoring. Updated the Obsidian Skills repository link.
 - 2026-11-10. Added 16 resources for motion graphics, writing, app development, code review, agent workflows, video production, and public-source research.
 - 2026-11-04. Added 9 resources and updated ruler for shared agent memory, architecture diagrams, genealogy research, codebase maps, threat modeling, motion design, session monitoring, project rules, and token optimization.
 - 2026-10-29. Added 15 resources for skills, team resource sharing, reverse engineering, UI and Blender design, Rust, XSS auditing, session monitoring, agent terminals, project memory, and review workflows.
