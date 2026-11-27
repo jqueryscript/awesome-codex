@@ -4,7 +4,7 @@
 
 A curated list of tools, skills, plugins, clients, MCP integrations, automation projects, SDKs, session utilities, and practical guides for OpenAI Codex. Resources are grouped by use case and ordered by GitHub Stars within each category.
 
-**Resources:** 573
+**Resources:** 574
 
 **Updated:** 2026-11-25
 
@@ -705,6 +705,8 @@ Set up repeatable Codex jobs with actions, review loops, schedulers, and agent c
 - [**krypton**](https://github.com/jturntdev/krypton) - (129 ⭐) - Goal-based planning and proof gate for AI coding agents.
 <!-- resource-id: codex-deferred-31fbac4f006c -->
 - [**pdf-trad-to-simp-preserve-layout-kit**](https://github.com/superpilot69/pdf-trad-to-simp-preserve-layout-kit) - (118 ⭐) - PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs.
+<!-- resource-id: codex-beastlabai-multi-llm-plugin -->
+- [**multi-llm-plugin**](https://github.com/beastlabai/multi-llm-plugin) - (11 ⭐) - Parallel plan, code, and commit reviews across 22 coding CLIs, with validated findings, task generation, implementation, and automated revision.
 
 ---
 
