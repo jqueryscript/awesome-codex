@@ -767,6 +767,7 @@ Connect Codex to browsers, data, and other services through MCP and documented b
 - [**peek-cli**](https://github.com/puffinsoft/peek-cli) - (125 ⭐) - Capture screenshots of open Chrome tabs from Codex or other agents through a browser extension and command-line tool.
 <!-- resource-id: codex-awesome-jasoncolapietro-suede-creator-skills -->
 - [**suede-creator-skills**](https://github.com/JasonColapietro/suede-creator-skills) - (121 ⭐) - 74 open-source Agent Skills for Claude Code and Codex.
+- [**dchub-mcp-server**](https://github.com/azmartone67/dchub-mcp-server) - (3 ⭐) - DC Hub, the orchestration layer for data center and energy intelligence: connect Codex to the remote MCP server at `https://dchub.cloud/mcp` and call `execute_plan` first for dated, cited answers on data center, colocation, energy, power grid, fiber, site selection and capacity, including the Data Center Power Index (DCPI). `DCHUB_API_KEY` is optional.
 
 ---
 
